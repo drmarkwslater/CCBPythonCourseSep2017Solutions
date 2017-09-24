@@ -1,0 +1,5 @@
+def myprint( ):
+    # Function to print hello
+    print 'Hello World'
+    
+myprint()
